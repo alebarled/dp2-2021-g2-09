@@ -12,3 +12,4 @@ The contributors of this project are:
 
 - Rafael Corchuelo (corchu@us.es)
 - Alejandro Barranco Ledesma (alebarled@alum.us.es)
+- Juan Ramón Ostos Rubio (juaostrub@alum.us.es)
