@@ -8,4 +8,9 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
+The contributors of this project are:
+
+- Rafael Corchuelo (corchu@us.es)
+- Alejandro Barranco Ledesma (alebarled@alum.us.es)
 - Jesús Aparicio Ortiz (jesapaort@alum.us.es)
+- Juan Ramón Ostos Rubio (juaostrub@alum.us.es)
