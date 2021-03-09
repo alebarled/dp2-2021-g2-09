@@ -15,4 +15,3 @@ The contributors of this project are:
 - Jesús Aparicio Ortiz (jesapaort@alum.us.es)
 - Juan Ramón Ostos Rubio (juaostrub@alum.us.es)
 - Victor Javier Granero Gil (vicgragil@alum.us.es)
-- David Brincau Cano (davbrican@alum.us.es)
